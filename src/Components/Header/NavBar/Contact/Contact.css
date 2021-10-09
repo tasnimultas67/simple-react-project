@@ -1,0 +1,28 @@
+.contact-info-text{
+    text-align: center;
+}
+.form-box{
+    background-color: white;
+}
+.name-field{
+    display: flex;
+}
+.input-field{
+    padding: 10px 20px;
+}
+.f-name-field{
+    margin-right: 10px;
+}
+.common-input{
+    width: 390px;
+}
+.contact-container{
+    margin: auto;
+    justify-content: center;
+}
+.form-container{
+    margin: 100px 300px 100px 500px
+}
+.form-btn{
+    padding: 10px 30px;
+}

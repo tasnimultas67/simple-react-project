@@ -1,0 +1,43 @@
+.about-sec{
+    text-align: center;
+    margin: 200px;
+}
+.about-title{
+    font-size: 50px;
+}
+.about-info-2nd{
+    font-size: 25px;
+}
+.about-info-3rd{
+    font-size: 18px;
+}
+.title-color{
+    color: #754ffe;
+}
+
+.global-reach-count{
+    display: flex;
+    justify-content: center;
+}
+.reach-count-title{
+    font-size: 40px;
+    font-weight: bold;
+}
+.reach-div{
+    margin-left: 20px;
+    margin-right: 20px;
+    padding: 30px;
+    text-align: center;
+}
+.global-reach-text{
+    text-align: center;
+}
+.global-reach-title{
+    font-size: 45px;
+}
+.reach-count-sub-ttile{
+    color: gray;
+}
+.global-reach{
+    margin-bottom: 50px;
+}
